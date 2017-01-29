@@ -22,4 +22,4 @@ cabal.project.local
 .HTF/
 
 .idea/
-hello_you/hello_you
+exercises/hello_you
